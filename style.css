@@ -1,0 +1,88 @@
+body {
+    padding-right:30px;
+    padding-left:30px;
+}
+
+table {
+	text-align:center;
+}
+
+.text {
+	text-align:left;
+}
+
+.img-00-0 {
+	vertical-align:text-middle;
+	width:40px;
+	height:40px;
+	border-radius:50%;
+}
+
+.img-00-1 {
+	width:1024px;
+	height:400px;
+	border-radius:25%;
+}
+
+.img-01 {
+	width:350px;
+	height:350px;
+	border-radius:20%;
+}
+
+.img-02 {
+	width:350px;
+	height:350px;
+	border-radius:30%;
+}
+
+.img-03 {
+	width:350px;
+	height:350px;
+	border-radius:40%;
+}
+.r_img:hover{
+	opacity: 0.8;
+	rotate: 2deg;
+}
+.large_font:hover{
+	font-size: 28px;
+	background-color: black;
+	height: 350px;
+	color: white;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
